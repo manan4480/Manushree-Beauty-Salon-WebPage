@@ -1,0 +1,35 @@
+html {
+    font-size: 20px;
+    font-family: 'Dongle', sans-serif;
+    background-color: black;
+  }
+  h1 {
+    margin: 25px auto 0 auto;
+    padding: 5px 0;
+    color: #6c019e;
+    text-shadow: 2px 2px 3px black; 
+    font-size: 50px;
+    text-align: center;
+    line-height: 1;
+  }
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 1px;
+  }
+  p, li {
+    font-size: 25px;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  body {
+    width: 600px;
+    margin: 30px auto;
+    background-color: #c03d01;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid #012892;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
