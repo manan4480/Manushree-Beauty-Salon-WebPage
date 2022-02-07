@@ -6,13 +6,12 @@ html {
   }
   h1 {
     margin: 20px auto 0 125px;
-    padding: 0 0 0 0;
     color: #51094b;
     font-size: 50px;
     text-align: left;
     line-height: 0.75;
   }
-  p, li {
+  li {
     font-size: 25px;
     line-height: 1;
     letter-spacing: 1px;
@@ -21,11 +20,15 @@ html {
     width: 600px;
     margin: 30px auto;
     background-color: rgb(255, 225, 240);
-    padding: 0px 20px 20px 20px;
+    padding: 0px 20px 0px 20px;
     border: 5px solid #050434;
   }
   img {
     display: block;
     width: 100px;
-    margin-top: -140px;
+    margin-top: -135px;
+  }
+  p {
+    font-size: 25px;
+    line-height: 1;
   }
